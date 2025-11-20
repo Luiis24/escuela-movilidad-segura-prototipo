@@ -25,5 +25,31 @@ El propósito es demostrar cómo un componente tecnológico puede complementar l
 
 ---
 
-## 📁 Estructura del proyecto
+
+---
+
+## 🛠 Tecnologías utilizadas
+
+- **HTML5**  
+- **CSS3**  
+- Recursos multimedia embebidos (YouTube, imágenes, etc.)
+- Paginas movilidad.
+- Paginas del estado.
+
+---
+
+## 🖼 Evidencias del prototipo
+
+Las evidencias fotográficas del proceso de construcción y funcionamiento serán adjuntadas en el informe y en el foro del curso según lo solicitado en la guía de la Etapa 4.
+
+---
+
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/3ed093b6-ce6e-4fd5-89eb-9e3630268368" />
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/d789e4c0-77d5-4db3-a1cb-7cf88a2ef694" />
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/dc966d2c-7fee-454c-8eda-2f98649a2717" />
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/d7e5a17f-b533-462d-b995-6ebb087a5b2f" />
+
+
+
+
 
