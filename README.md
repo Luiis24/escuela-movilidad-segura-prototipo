@@ -6,6 +6,7 @@ La solución hace parte de la alternativa grupal **“Escuelas Comunitarias de M
 Este prototipo representa un **módulo digital educativo**, diseñado para apoyar los talleres presenciales de las escuelas comunitarias, ofreciendo recursos como normas básicas, videos, señales de tránsito y material de aprendizaje.
 
 Prototipo desplegado: https://escuela-movilidad-segura-prototipo.netlify.app/
+Video explicativo: https://youtu.be/Jz4pgNhK91k?si=F5a9AZC0GppyfRgI
 
 ---
 
