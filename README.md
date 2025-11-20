@@ -5,6 +5,8 @@ La solución hace parte de la alternativa grupal **“Escuelas Comunitarias de M
 
 Este prototipo representa un **módulo digital educativo**, diseñado para apoyar los talleres presenciales de las escuelas comunitarias, ofreciendo recursos como normas básicas, videos, señales de tránsito y material de aprendizaje.
 
+Prototipo desplegado: https://escuela-movilidad-segura-prototipo.netlify.app/
+
 ---
 
 ## 🚦 Objetivo del prototipo
@@ -35,6 +37,7 @@ El propósito es demostrar cómo un componente tecnológico puede complementar l
 - Recursos multimedia embebidos (YouTube, imágenes, etc.)
 - Paginas movilidad.
 - Paginas del estado.
+- Netlify para usar el prototipo de manera online.
 
 ---
 
